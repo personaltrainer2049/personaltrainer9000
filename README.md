@@ -2,6 +2,8 @@
 
 React + Typescript project for the front end course.
 
+Hosted @ https://personaltrainer9000.herokuapp.com/
+
 ## Tasks:
 - [X] Create pages to list customers and trainings
   - [X] Sorting
