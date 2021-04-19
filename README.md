@@ -3,10 +3,9 @@
 React + Typescript project for the front end course.
 
 ## Tasks:
-
--[X] Create pages to list customers and trainings
-    - [X] Sorting
-    - [X] Searching
+- [X] Create pages to list customers and trainings
+  - [X] Sorting
+  - [X] Searching
 
 ### Customer Page
 
@@ -25,7 +24,7 @@ React + Typescript project for the front end course.
     - [X] Searching
 - [X] Delete training (w/ confirmation dialog)
 
-### Calendar page
+### Calendar 
 
 - [X] personal trainer can see all trainings (monthly, weekly, daily).
 
@@ -33,10 +32,10 @@ React + Typescript project for the front end course.
 
 - [X] Deploy your app to some cloud server
 
-### Statistics Page
+### Statistics
 
-- [ ] User can see the amount of minutes by different activities.
-    - [ ] Show the statistics in bar chart (example screenshot)
+- [X] User can see the amount of minutes by different activities.
+- [X] Show the statistics in bar chart (example screenshot)
 
 - Rechart 
 - Lodash 
